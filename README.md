@@ -61,7 +61,7 @@ CSV data for further analysis
 
 The proposed reward is **1,000 points for one free meal**. This is a design concept, **not an existing FIU Dining benefit**. Points are based on **self-reported feedback**, not verified food-waste measurements.
 
-## 🛠️ Tech stack
+## Tech stack
 
 | Technology | Purpose |
 | --- | --- |
@@ -74,7 +74,7 @@ The proposed reward is **1,000 points for one free meal**. This is a design conc
 
 **Recommendation transparency:** The current recommendation engine is **rule-based**, not a trained AI or machine-learning model.
 
-## 📂 Project structure
+## Project structure
 
 | File | Role |
 | --- | --- |
@@ -90,7 +90,7 @@ The proposed reward is **1,000 points for one free meal**. This is a design conc
 
 Other files in the repository may be supporting or experimental assets.
 
-## 🚀 Run locally
+## Run locally
 
 **Prerequisites:** Python 3.10+ and a terminal. Running the menu scraper additionally requires Google Chrome and a compatible Selenium browser driver setup.
 
@@ -124,7 +124,7 @@ Other files in the repository may be supporting or experimental assets.
 
 **Demo note:** Use fictional student names and seven-digit IDs. This prototype uses local CSV files and is not suitable for handling real student data without additional security and privacy controls.
 
-## 📊 Sustainability value and evaluation
+## Sustainability value and evaluation
 
 SmartPlate is intended to support three dimensions of sustainability:
 
@@ -134,15 +134,71 @@ SmartPlate is intended to support three dimensions of sustainability:
 
 These are **potential benefits**, not validated outcomes. A future pilot would compare measured waste and user behavior before and after adoption.
 
-## 🔮 Future development
+## ## Future Development
 
-1. **Pilot and measurement:** Test with volunteer students, assess usability, and measure actual food waste rather than relying only on self-reports.
-2. **More personalized recommendations:** Explore learning from previous choices and feedback while accounting for individual needs and preferences.
-3. **Leftover detection:** Investigate consent-based image recognition, while acknowledging that a photo of an empty plate does **not** prove that a meal was consumed. Evaluate verification options and reward-system abuse.
-4. **Scalable infrastructure:** Replace local CSV storage with a secure database and backend, then conduct concurrent-user load testing.
-5. **Dining integration:** Explore authorized integration with campus dining systems if a real deployment becomes feasible.
+Our long-term vision is to transform SmartPlate from a working prototype into a scalable, intelligent, and data-driven solution that supports sustainable dining experiences.
 
-## ⚠️ Current limitations
+### 1. Machine Learning for Personalized Portion Recommendations
+
+We plan to integrate machine learning to better understand individual students' eating habits and recommend more suitable portion sizes.
+
+By analyzing previous orders, hunger levels, food preferences, and leftover feedback, SmartPlate could identify consumption patterns and continuously improve its recommendations.
+
+For example, if a student frequently leaves rice unfinished, the system could suggest a smaller rice portion in future meals while allowing the student to adjust it according to their needs.
+
+**Goal:** Provide personalized recommendations that improve the dining experience while reducing unnecessary food waste.
+
+### 2. Scalability and System Performance
+
+Our current prototype is built with Python and Streamlit, using CSV files for data storage. To support a larger number of users, we plan to develop a more robust system architecture.
+
+Future improvements may include:
+
+- Migrating from CSV files to a secure, centralized database.
+- Developing a more scalable backend and cloud-based infrastructure.
+- Improving system performance during peak dining hours.
+- Conducting load testing to evaluate reliability with thousands of simultaneous users.
+
+**Goal:** Build a reliable application that can support large university dining communities.
+
+### 3. AI-Powered Leftover Detection and Verification
+
+Currently, SmartPlate relies on students' self-reported feedback to track food waste. In the future, we aim to explore computer vision technology to estimate leftover food from images.
+
+However, image recognition alone cannot guarantee accurate reporting because students could submit misleading photos, such as pictures of empty plates.
+
+To address this challenge, we would explore additional verification methods, including linking feedback to individual orders and testing supervised tray-return stations.
+
+**Goal:** Improve the accuracy and reliability of food waste data while maintaining a convenient user experience.
+
+### 4. Integration with University Dining Services
+
+We hope to collaborate with university dining services to explore integrating SmartPlate into existing dining operations.
+
+Potential developments include:
+
+- Synchronizing menu availability and nutritional information.
+- Connecting digital orders with participating food stations.
+- Developing a mobile-friendly application for easier student access.
+- Providing dining managers with actionable insights through data analytics dashboards.
+
+**Goal:** Connect students' daily dining decisions with more efficient dining operations.
+
+### 5. Measuring Sustainability Impact
+
+To evaluate SmartPlate's effectiveness, we plan to conduct pilot studies with students and university dining services.
+
+These studies could compare food waste before and after implementing SmartPlate, measure student engagement, and identify frequently wasted food items.
+
+The results would help us improve the system and evaluate its potential contribution to **UN Sustainable Development Goal 12: Responsible Consumption and Production**.
+
+**Goal:** Move beyond encouraging sustainable behavior toward measuring meaningful, evidence-based environmental impact.
+
+---
+
+**Our Vision:** SmartPlate aims to create a continuous learning cycle in which student feedback improves portion recommendations, dining data supports better operational decisions, and technology encourages more responsible food consumption.
+
+## Current limitations
 
 - No official FIU login, payment, ordering, or dining-system integration.
 - Portion and calorie thresholds are **demo heuristics**, not medical or nutritional advice.
@@ -151,7 +207,7 @@ These are **potential benefits**, not validated outcomes. A future pilot would c
 - CSV storage has limitations for security, reliability, and concurrent usage.
 - Real-world food-waste reduction has not yet been established.
 
-## 👥 Team and project context
+## Team and project context
 
 Developed as a student team project for an **AIS Tech X Challenge finalist presentation**. The prototype combines Python application development with a data-analytics workflow to explore more responsible campus dining.
 
