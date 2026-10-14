@@ -134,7 +134,7 @@ SmartPlate is intended to support three dimensions of sustainability:
 
 These are **potential benefits**, not validated outcomes. A future pilot would compare measured waste and user behavior before and after adoption.
 
-## ## Future Development
+##  Future Development
 
 Our long-term vision is to transform SmartPlate from a working prototype into a scalable, intelligent, and data-driven solution that supports sustainable dining experiences.
 
