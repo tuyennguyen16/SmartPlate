@@ -10,13 +10,13 @@ OPEN MENU
 What's On The Menu?
 View the menu for the current week
 Date
-10/5/26
+10/9/26
 Location
 8th Street Campus Kitchen
 Menu
 Lunch
 8th Street Campus Kitchen
-Open. Closes at 11:00pm.
+Open. Closes at 9:00pm.
 Location details
 $13.29
 door price
@@ -24,53 +24,49 @@ COMFORT/ HOMESTYLE
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Chicharrones de Pollo 
-Puerto Rican Fried Chicken Bites with orange mojo dipping suace
-5 ounce 390
-Moros 
-Black Beans and Rice
-1/2 cup 160
-Green Beans 
-Sauteed Green Beans with Olive Oil
-1/2 cup 60
-Baked Plantains 
-1/2 cup 60
+Adobo Pork Loin 
+Lime, garlic, and cilantro seasoned pork loin
+3 oz meat 210
+Red Rice 
+Savory Rice with Chilies and Tomato
+1/2 cup 150
+Cajun Lentil Stew 
+Spiced lentil stew with tomatoes
+8 oz portion 130
+Vegetable Medley 
+Carrots, Squash, Broccoli, Mushrooms, Garlic, and Herbs
+4 ounce 50
 DELICIOUS WITHOUT
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Pork Roast 
-Slow cooked to perfection
-3 oz meat 190
-Roasted Vegetables 
-Sweet and wonderfully satisfying oven roasted vegetables
-1/2 cup 45
-Roasted Potatoes 
-Lightly seasoned roasted yukon potatoes.
-4 ounce 110
+Lemon Oregano Grilled Chicken 
+4 ounce 210
+Herb Roasted Wedge Potatoes 
+6 ounce 210
+Green Beans 
+Sauteed Green Beans with Olive Oil
+1/2 cup 60
 PLANT BASED
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Lentil Vegetable Bean Chili 
-6 fl oz 110
-Baked Potatoes 
-Fluffy Idaho potato
-1 each 230
-Sauteed Mushrooms 
-Sauteed button mushrooms with garlic
-2 ounce 35
-Vegan Mozzarella Shreds 
-2 ounce 50
-Chopped Green Onions 
-1/4 cup 10
+Curried Citrus Bean Stew 
+Kidney beans, sweet potatoes, oranges stewed with spices and tamarind
+1/2 cup 100
+Sauteed Kale 
+Sauteed Kale
+1/2 cup 90
+Brown Rice 
+Brown Rice
+1/2 cup 140
 FLAME
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Hamburger on Bun 
-Ground sirloin patty grilled to perfection and served on a white bun.
-1 sandwich 380
+Turkey Burger on Bun 
+Seasoned ground turkey
+1 each 350
 French Fries 
 1/2 cup 60
 Turkey Hot Dog 
@@ -116,11 +112,11 @@ Fresh Chopped Garlic
 Kimchi 
 Variation of a traditional Korean side dish with cabbage, carrots, and radish in a spicy pepper, ginger, garlic paste
 1/4 cup 10
+Teriyaki Sauce 
+sesame oil, ginger, garlic, soy sauce, green onions
+1 fl oz 35
 Orange Sauce 
 1 fl oz 70
-Szechuan Sauce 
-Salty, spicy and zesty
-1 fl oz 20
 Sriracha Hot Chili Sauce 
 1/2 fl oz 0
 Sambal Oelek Chili Sauce 
@@ -142,28 +138,20 @@ THE SOUP BOWL
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Buffalo Chicken Soup 
-Roast Chicken Soup with Hot Sauce, Blue Cheese and Celery
-4 ounce 240
-Roasted Corn and Potato Chowder 
-Corn, Potatoes, Shallots, Red Peppers, Italian Parsley, and Soy Milk
-4 oz portion 110
+Classic Chicken Noodle Soup 
+Chicken, Vegetables, Macaroni and Lemon
+4 ounce 80
+Cream of Mushroom 
+Mushrooms and thyme in a cream based soup.
+4 fl oz 70
 Crackers, Saltine, 2 CT, Zesta 
 1 each 25
 DELI CRAFTED
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Hoagie Roll 
-1 each 190
-Rye Bread 
-2 slice 220
-Multigrain Bread 
-2 slice 280
 Whole Wheat Bread 
 2 slice 150
-10" Flour Tortilla 
-1 each 200
 Thinly Sliced Deli Turkey Breast 
 2 ounce 60
 Sliced Swiss Cheese 
@@ -199,12 +187,12 @@ Romaine Blend
 1 cup 10
 Baby Spinach 
 1 cup 5
-Cooked Farro 
-Simply cooked farro
+Citrus Wild Rice Salad 
+An earthy salad with a citrus flair
+1/2 cup 120
+Roasted Sweet Potatoes 
+Sweet Potatoes, Parsley, Canola Oil, Salt and Ground Black Pepper
 1/4 cup 80
-Balsamic Roasted Tomatoes 
-roma tomatoes, olive oil, balsamic vinegar and garlic
-2 ounce 60
 Herb Roasted Mushrooms 
 Garlic and thyme roasted button mushrooms
 1/2 cup 70
@@ -227,14 +215,15 @@ Seasoned with fresh basil and oregano
 2 ounce 70
 Chopped Hard Boiled Eggs 
 1/4 cup 50
-Cilantro Pesto Tofu 
-Tamari Infused Tofu Tossed with an Asian Inspired Pesto that has just a little kick
-1 ounce 35
-Spicy Harrissa Hummus 
-Delicious creamy chickpea spread with a hint of spice
-2 fl oz 130
-Tajin Roasted Garbanzo Beans 
-1/4 cup 90
+Red Chili Miso Tofu 
+Red chili and miso with soy, mirin, ginger and sesame coated crispy tofu
+3 ounce 110
+Garlicy Tumeric Hummus 
+Garlic Hummus with a touch of Tumeric
+2 fl oz 160
+Greek Garbanzo Beans 
+Garbanzo beans coated in a greek seasoning
+1/4 cup 80
 Ranch Dressing 
 2 fl oz 220
 Blue Cheese Dressing 
@@ -271,9 +260,9 @@ Chow Mein Noodles
 1 tbsp 15
 Cheez-It Crackers 
 1/2 ounce 70
-Greek Pasta Salad 
-Tomatoes, olive, cucumbers and pasta tossed in Greek dressing
-1/2 cup 100
+American Macaroni Salad 
+Chilled macaroni salad
+1/2 cup 120
 CUCINA
 Click any item for nutritional information.
 Menu Item Portion Calories
@@ -293,15 +282,15 @@ THE SWEET SHOPPE
 Click any item for nutritional information.
 Menu Item Portion Calories
 Favorite
-Sugar Cookies 
-Dusted with sugar.
-1 each 120
-Lemon Mallow Meringue Long John 
-Long John Donut with all the fun of a lemon meringue pie
-1/2 each 310
-Lucky Charm Monkey Bread 
-Mom's best monkey bread topped with marshmallow fluff and lucky charms
-1 each 530
+Chocolate Chip Cookies 
+Soft sugar cookie dotted with chocolate chips
+1 each 130
+Powdered Donut Hole 
+Donut Hole Powdered Sugar
+3 each 160
+Cranberry Oatmeal Bars 
+Oatmeal bars with cranberry filling and oat struesel topping
+1 2" x 2" 200
 Chocolate Ice Cream 
 1/2 cup 130
 Vanilla Ice Cream 
@@ -348,16 +337,6 @@ Instagram
 YouTube
 (opens in a new tab)
 Upcoming Events
-THÁNG 10
-7
-Tailgate at Chili's
-Chili's
-October 7th at 4:00 PM
-THÁNG 10
-8
-Hispanic Heritage Month Lunch
-8th Street Campus Kitchen
-October 8th at 11:00 AM
 THÁNG 10
 15
 Hispanic Heritage Month Lunch
